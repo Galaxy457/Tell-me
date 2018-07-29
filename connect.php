@@ -1,8 +1,8 @@
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "wallstant";
+$servername = "hashtag
+$username = "adelalisayed";
+$password = "01224486870@";
+$dbname = "hashtag";
 
 try 
     {
