@@ -1,5 +1,5 @@
 <?php
-$servername = "hashtag
+$servername = "hashtag" ؛
 $username = "adelalisayed";
 $password = "01224486870@";
 $dbname = "hashtag";
